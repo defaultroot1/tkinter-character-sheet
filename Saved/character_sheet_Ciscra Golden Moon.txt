@@ -1,0 +1,20 @@
+Name: Ciscra Golden Moon
+
+Level: 1
+
+Race: Human
+Class: Ranger/Druid
+
+AC: 5
+Strength: 8
+Dexterity: 12
+Constitution: 10
+Intelligence: 9
+Wisdom: 9
+Charisma: 7
+HP: 12
+
+EXP: 0
+
+Background: 
+Some background shite here...
